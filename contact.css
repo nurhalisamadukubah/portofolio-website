@@ -1,0 +1,63 @@
+.nur{
+    color: whitesmoke;
+    background-color: rgba(87, 203, 238, 0.6);
+    width: 80%;
+    padding: 50px 80px;
+    font-family: kristen itc;
+    font-size: 10px;
+}
+body{
+    background-image: url(bg3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    margin: auto;
+    padding: 110px 110px;
+}
+h2{
+    color : whitesmoke;
+    font-family: kristen itc;
+    font-size: 35px;
+    margin-bottom: 30px;
+    padding-left: 30px;
+}
+.ig{
+    background-image: url(ig.png);
+    background-repeat: no-repeat;
+    padding-left: 25px !important;
+    background-size: 20px;
+    background-position-y: 3px;
+}
+.line{
+    background-image: url(line.png);
+    background-repeat: no-repeat;
+    padding-left: 25px !important;
+    background-size: 20px;
+    background-position-y: 3px;
+}
+.email{
+    background-image: url(email.png);
+    background-repeat: no-repeat;
+    padding-left: 25px !important;
+    background-size: 23px;
+    background-position-y: 4px;
+}
+.kmbli{
+    font-family: kristen itc;
+    font-size: 25px;
+    color: rgb(16, 101, 170);
+    text-align: center;
+    cursor: pointer;
+    color: white;
+    background: rgb(16, 101, 170);
+    width: 150px;
+    height: 40px;
+    border-radius: 4px;
+    border: none;
+    padding-top: 5px;
+    margin: auto;
+    margin-top: 75px;
+}
+.kmbli:hover{
+    background: rgb(91, 129, 255);
+}

@@ -1,0 +1,82 @@
+a {
+    text-decoration: none;
+    color: black;
+}
+body {
+    background-image: url("bg3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+}
+.navbar-container {
+    width: 100%;
+    box-shadow: 5px 10px #888888 v;
+}
+
+.navbar-body {
+    margin: auto;
+    width: 80%;
+    background-color: none;
+    padding: 1em;
+}
+
+.navbar-menu {
+    font-size: 14px;
+    float: right;
+    margin: 0;
+    list-style: none;
+    padding: 4px 0;
+}
+
+.navbar-item {
+    text-transform: uppercase;
+    cursor: pointer;
+    display: inline;
+    padding: 0px 20px;
+}
+
+.banner-container {
+    width: 100%;
+}
+
+.banner-body {
+    overflow: hidden;
+    height: 480px;
+    background-image: url("banner.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.banner-color {
+    width: 100%;
+    background-color: rgba(87, 203, 238, 0.6);
+    height: 480px;
+    text-align: center;
+    padding: 40px 10px;
+    color: white;
+    font-family: 'kristen itc', sans-serif !imp\ortant;
+
+}
+
+.banner-color h2 {
+    font-size: 60px;
+    margin-bottom: 20px;
+}
+
+.banner-color h3 {
+    font-size: 23px;
+    margin-bottom: 40px;
+}
+
+.img.banner-brand {
+    float: center;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.paragraf {
+    text-align: center;
+    font-family: 'sitka banner', sans-serif ;
+    font-size: 18px;
+    
+}
