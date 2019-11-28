@@ -1,3 +1,3 @@
 # portofolio-website
-Tugas praktikum
-kak, ini tugasku.
+Tugas praktikum PEMOGRAMAN WEB HTML & CSS
+
